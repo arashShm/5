@@ -1,0 +1,17 @@
+{
+    "name": "bcz/mvc",
+    "description": "This is my first MVC project",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "model/",
+            "Core\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arash",
+            "email": "arash.shamimi79@gmail.com"
+        }
+    ],
+    "require": {}
+}
